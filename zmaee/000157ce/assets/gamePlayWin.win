@@ -1,0 +1,9 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240">
+	<ImageLabel name="bgImg" pos-type="1" pos-x="0" pos-y="0" width="240" height="240"/>
+	<container layout="5" name="carContainer" pos-type="1" pos-x="0" pos-y="0" width="240" height="240">		
+	</container>
+	<container layout="5" name="peopleContainer" pos-type="1" pos-x="0" pos-y="0" width="240" height="240">		
+	</container>
+	<gameNumLabel numBitmap="20029" bitmap="20030" name="scoreLabel" pos-type="1" pos-x="1" pos-y="1" width="97" height="35" numOffsetX="50" numOffsetY="8"/>
+	<gameNumLabel numBitmap="20029" bitmap="20050" name="timeLabel" pos-type="1" pos-x="142" pos-y="1" width="97" height="35" numOffsetX="17" numOffsetY="8"/>
+</window>

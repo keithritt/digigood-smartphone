@@ -1,0 +1,13 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30001">
+	<game_imageLabel bitmap="20023" name="targetLabel" pos-type="1" pos-x="4" pos-y="9" width="68" height="28"/>
+	<gameNumLabel numBitmap="20017" name="target" pos-type="1" pos-x="2" pos-y="39" width="70" height="42" hasSymbol="1"/>
+	<game_imageLabel bitmap="20027" name="scoreLabel" pos-type="1" pos-x="5" pos-y="84" width="63" height="24"/>
+	<gameNumLabel numBitmap="20017" name="score" pos-type="1" pos-x="2" pos-y="109" width="70" height="42" hasSymbol="1"/>
+	<gameCat name="cat" bitmap="20006" frame1="20004" frame2="20005" pos-type="1" pos-x="0" pos-y="156" width="83" height="64"/>
+	<gameBox name="box1" pos-type="1" pos-x="88" pos-y="15" width="69" height="69" selectBmp="20021" numBitmap="20017" frame1="20024" frame2="20025"/>
+	<gameBox name="box2" pos-type="1" pos-x="157" pos-y="15" width="69" height="69" selectBmp="20021" numBitmap="20017" frame1="20024" frame2="20025"/>
+	<gameBox name="box3" pos-type="1" pos-x="88" pos-y="84" width="69" height="69" selectBmp="20021" numBitmap="20017" frame1="20024" frame2="20025"/>
+	<gameBox name="box4" pos-type="1" pos-x="157" pos-y="84" width="69" height="69" selectBmp="20021" numBitmap="20017" frame1="20024" frame2="20025"/>
+	<gameBox name="box5" pos-type="1" pos-x="88" pos-y="155" width="69" height="69" selectBmp="20021" numBitmap="20017" frame1="20024" frame2="20025"/>
+	<gameBox name="box6" pos-type="1" pos-x="157" pos-y="155" width="69" height="69" selectBmp="20021" numBitmap="20017" frame1="20024" frame2="20025"/>
+</window>

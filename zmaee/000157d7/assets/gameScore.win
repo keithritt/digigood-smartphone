@@ -1,0 +1,7 @@
+<window layout="5" name="gameScoreWin" pos-type="1" width="240" height="240" background="30001">
+	<game_imageLabel bitmap="20012" name="level" pos-type="1" pos-x="33" pos-y="70" width="97" height="101"/>
+	<numLabel numBitmap="20032" name="easyLabel" pos-type="1" pos-x="160" pos-y="68" width="62" height="34" />
+	<numLabel numBitmap="20032" name="normalLabel" pos-type="1" pos-x="160" pos-y="104" width="62" height="34"/>
+	<numLabel numBitmap="20032" name="hardLabel" pos-type="1" pos-x="160" pos-y="140" width="62" height="34"/>
+	<game_button bitmap="20006" name="cancelBtn" pos-type="1" pos-x="86" pos-y="177" width="63" height="63" />
+</window>

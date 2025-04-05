@@ -1,0 +1,8 @@
+<window layout="5" name="gameLevelWin" pos-type="1" width="240" height="240" background="30001">
+	<game_imageLabel bitmap="20012" name="level" pos-type="1" pos-x="33" pos-y="57" width="97" height="101"/>
+	<gameSwitchButton onBmp="20028" offBmp="20004" name="easyBtn" pos-type="1" pos-x="165" pos-y="65" width="25" height="22" />
+	<gameSwitchButton onBmp="20028" offBmp="20004" name="normalBtn" pos-type="1" pos-x="165" pos-y="97" width="25" height="22" defaultValue="0"/>
+	<gameSwitchButton onBmp="20028" offBmp="20004" name="hardBtn" pos-type="1" pos-x="165" pos-y="132" width="25" height="22" defaultValue="0"/>
+	<game_button bitmap="20018" name="okBtn" pos-type="1" pos-x="33" pos-y="164" width="63" height="63" />
+	<game_button bitmap="20006" name="cancelBtn" pos-type="1" pos-x="139" pos-y="164" width="63" height="63" />
+</window>

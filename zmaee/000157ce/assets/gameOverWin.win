@@ -1,0 +1,6 @@
+<window layout="5" name="gameOverWin" pos-type="1" width="240" height="240" background="30001">
+	<ImageLabel bitmap="20020" name="title" pos-type="1" pos-x="27" pos-y="15" width="189" height="48"/>
+	<gameNumLabel bitmap="20052" numBitmap="20057" name="best" pos-type="1" pos-x="45" pos-y="83" width="152" height="31" numOffsetX="114" numOffsetY="0"/>
+	<gameNumLabel bitmap="20059" numBitmap="20057" name="score" pos-type="1" pos-x="43" pos-y="130" width="152" height="31" numOffsetX="114" numOffsetY="0"/>
+	<game_button bitmap="20000" name="backBtn" pos-type="1" pos-x="87" pos-y="168" width="67" height="67" />
+</window>

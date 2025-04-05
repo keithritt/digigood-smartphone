@@ -1,0 +1,11 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30000">
+	<game_button bitmap="20018" name="backBtn" pos-type="1" pos-x="2" pos-y="8" width="41" height="29"/>
+	<gameNumLabel numBitmap="20008" bitmap="20005" name="scoreLabel" pos-type="1" pos-x="64" pos-y="5" width="74" height="35" numOffsetX="39"/>
+	<gameNumLabel numBitmap="20008" bitmap="20015" name="timeLabel" pos-type="1" pos-x="149" pos-y="3" width="74" height="39" numOffsetX="39" numOffsetY="2"/>
+	<gameHand name="leftHand" pos-type="1" pos-x="0" pos-y="72" width="112" height="80"/>
+	<gameHand name="rightHand" pos-type="1" pos-x="128" pos-y="72" width="112" height="80"/>
+	<game_button bitmap="20016" name="leftWin" pos-type="1" pos-x="2" pos-y="166" width="78" height="74" />
+	<game_button bitmap="20004" name="draw" pos-type="1" pos-x="81" pos-y="166" width="78" height="74" />
+	<game_button bitmap="20017" name="rightWin" pos-type="1" pos-x="160" pos-y="166" width="78" height="74" />
+	<game_imageLabel name="result" pos-type="1" pos-x="68" pos-y="76" width="104" height="88"/>
+</window>

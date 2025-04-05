@@ -1,0 +1,7 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30002">
+	<game_imageLabel bitmap="20020" name="title" pos-type="1" pos-x="0" pos-y="0" width="240" height="40"/>
+	<game_button bitmap="20031" name="backBtn" pos-type="1" pos-x="0" pos-y="0" width="44" height="40" />
+	<gameNumLabel numBitmap="20017" name="game-score" pos-type="1" pos-x="80" pos-y="8" width="80" height="26" align="4"/>
+	<container layout="5" name="gameBody" pos-type="1" pos-x="0" pos-y="40" width="240" height="200" >		
+	</container>
+</window>

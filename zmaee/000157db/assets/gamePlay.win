@@ -1,0 +1,11 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30001">
+	<game_button bitmap="20010" name="homeBtn" pos-type="1" pos-x="0" pos-y="0" width="50" height="50" />
+	<game_imageLabel bitmap="20020" name="score_bg" pos-type="1" pos-x="70" pos-y="5" width="100" height="32"/>
+	<gameNumLabel bitmap="20023" numBitmap="20018" name="score" pos-type="1" pos-x="63" pos-y="3" width="100" height="36" numOffsetX="39" numOffsetY="3"/>
+	<game_button bitmap="20019" name="restartBtn" pos-type="1" pos-x="190" pos-y="0" width="50" height="50" />
+	<Glass bg-bitmap="20006" name="glass1" pos-type="1" pos-x="6" pos-y="70" width="45" height="168" glass-offset-y="10"/>
+	<Glass bg-bitmap="20006" name="glass2" pos-type="1" pos-x="53" pos-y="70" width="45" height="168" glass-offset-y="10"/>
+	<Glass bg-bitmap="20006" name="glass3" pos-type="1" pos-x="100" pos-y="70" width="45" height="168" glass-offset-y="10"/>
+	<Glass bg-bitmap="20006" name="glass4" pos-type="1" pos-x="147" pos-y="70" width="45" height="168" glass-offset-y="10"/>
+	<Glass bg-bitmap="20006" name="glass5" pos-type="1" pos-x="194" pos-y="70" width="45" height="168" glass-offset-y="10"/>
+</window>

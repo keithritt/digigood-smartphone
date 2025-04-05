@@ -1,0 +1,8 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30001">
+	<gameNumLabel numBitmap="20014" name="score" pos-type="1" pos-x="4" pos-y="1" width="50" height="40" />
+	<gameNumLabel numBitmap="20014" name="time" pos-type="1" pos-x="184" pos-y="1" width="50" height="40"/>
+	<Wood name="wood" pos-type="1" pos-x="58" pos-y="201" width="75" height="13" bitmap="20020" left-pos="58" right-pos="133"/>
+	<Bear name="bear" pos-type="1" width="77" height="70" />
+	<container name="virtual_win" layout="5" pos-type="1" pos-x="0" pos-y="0" width="240" height="240" canfocus="1">
+	</container>
+</window>

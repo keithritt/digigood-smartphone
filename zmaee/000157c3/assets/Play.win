@@ -1,0 +1,12 @@
+<window layout="5" name="Play" width="240" height="240" background="30000">
+	<container name="virtualWin" pos-x="0" pos-y="0" width="240" height="240" canfocus="1">
+	</container>
+	<Dice name="dice" pos-x="90" pos-y="90" width="60" height="60"/>
+	
+	<container layout="5" pos-type="1" name="tipDialog" pos-x="0" pos-y="0" width="240" height="240" canfocus="0">
+		<colorBg name="backgroud" r="10" g="10" b="10" a="200" rc="0,0,240,240" />
+		<game_imageLabel bitmap="20010" name="click" pos-type="1" width="100" height="78" pos-x="20" pos-y="70"/>
+		<game_imageLabel bitmap="20011" name="shake" pos-type="1" width="100" height="78" pos-x="120" pos-y="70"/>
+		<label name="tip" text="Click or Shake" color="#FFFFFFFF" pos-type="1" align="20" pos-x="0" pos-y="160" width="240" height="40"/>
+	</container>
+</window>

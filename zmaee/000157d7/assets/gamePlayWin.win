@@ -1,0 +1,9 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240">
+	<PlayBg name="play_bg" layout="5" pos-type="1" pos-x="0" pos-y="0" width="240" height="240" road-speed="5" bitmap="20007"/>
+	<container layout="5" name="gameBody" pos-type="1" pos-x="0" pos-y="0" width="240" height="240" >		
+	</container>
+	<numLabel bitmap="20009" numBitmap="20025" name="heart" pos-type="1" pos-x="7" pos-y="8" width="97" height="38" numOffsetX="40" numOffsetY="1"/>
+	<numLabel bitmap="20011" numBitmap="20032" name="killNum" pos-type="1" pos-x="139" pos-y="8" width="97" height="38" numOffsetX="40" numOffsetY="1"/>
+	<gamePlane name="player" pos-x="90" pos-y="190" width="60" height="42"/>
+	<game_button bitmap="20008" name="goBtn" pos-type="1" pos-x="0" pos-y="0" width="240" height="240" align="20"/>
+</window>

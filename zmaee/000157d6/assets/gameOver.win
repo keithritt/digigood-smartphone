@@ -1,0 +1,5 @@
+<window layout="5" name="gameOverWin" pos-type="1" width="240" height="240" background="30002">
+	<game_imageLabel bitmap="20007" name="title" pos-type="1" pos-x="45" pos-y="3" width="151" height="39"/>
+	<ResultBox bgBitmap="20008" numBitmap="20014" name="resultBox" pos-type="1" pos-x="26" pos-y="45" width="188" height="132" pos-1="40,99,64,58" pos-2="131,99,64,58"/>
+	<game_button bitmap="20000" name="backBtn" pos-type="1" pos-x="95" pos-y="185" width="50" height="50" />
+</window>

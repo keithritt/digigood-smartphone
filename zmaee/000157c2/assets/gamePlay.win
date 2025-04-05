@@ -1,0 +1,10 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30000">
+	<gameNumLabel numBitmap="20009" name="score" pos-type="1" pos-x="4" pos-y="1" width="40" height="28" numOffsetX="0" numOffsetY="0"/>
+	<gameNumLabel numBitmap="20009" name="time" pos-type="1" pos-x="199" pos-y="1" width="40" height="28" numOffsetX="0" numOffsetY="0"/>
+	<gameLetterLabel name="letterLabel" pos-type="1" pos-x="21" pos-y="43" width="53" height="55"/>
+	<game_imageLabel bitmap="20033" name="house" pos-type="1" width="95" height="132" pos-x="0" pos-y="108"/>
+	<gameLetterBalloon name="balloon1" pos-type="1" pos-x="95" end_pos-y="31" width="66" height="87"/>
+	<gameLetterBalloon name="balloon2" pos-type="1" pos-x="167" end_pos-y="31" width="66" height="87"/>
+	<gameLetterBalloon name="balloon3" pos-type="1" pos-x="95" end_pos-y="141" width="66" height="87"/>
+	<gameLetterBalloon name="balloon4" pos-type="1" pos-x="168" end_pos-y="141" width="66" height="87"/>
+</window>

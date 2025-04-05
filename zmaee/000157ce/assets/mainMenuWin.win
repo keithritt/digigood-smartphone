@@ -1,0 +1,8 @@
+<window layout="5" name="mainMenuWin" pos-type="1" width="240" height="240" background="30000">
+	<game_button bitmap="20049" name="startBtn" pos-type="1" pos-x="9" pos-y="90" width="67" height="67" />
+	<level_button bitmap="20023" name="levelBtn" pos-type="1" pos-x="85" pos-y="89" width="67" height="67" />
+	<game_button bitmap="20048" name="scoreBtn" pos-type="1" pos-x="162" pos-y="89" width="67" height="67" />
+	<gameSwitchButton onBmp="20028" offBmp="20027" name="musicBtn" pos-type="1" pos-x="9" pos-y="165" width="67" height="67" />
+	<game_button bitmap="20022" name="helpBtn" pos-type="1" pos-x="86" pos-y="165" width="67" height="67" />
+	<game_button bitmap="20019" name="exitBtn" pos-type="1" pos-x="162" pos-y="165" width="67" height="67" />
+</window>

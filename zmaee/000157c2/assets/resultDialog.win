@@ -1,0 +1,3 @@
+<window layout="5" name="resultDialog" width="240" height="240" >
+	<game_imageLabel name="result" pos-type="1" width="160" height="160" pos-x="40" pos-y="40"/>
+</window>

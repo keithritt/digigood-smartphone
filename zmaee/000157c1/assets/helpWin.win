@@ -1,0 +1,6 @@
+<window layout="5" name="helpWin" pos-type="1" width="240" height="240" background="30000">
+	<game_imageLabel bitmap="20009" name="box" pos-type="1" canfocus="0" focus="0" width="215" height="221" pos-x="15" pos-y="9"/>
+	<game_imageLabel bitmap="20015" name="title" pos-type="1" canfocus="0" focus="0" width="92" height="27" pos-x="82" pos-y="12"/>
+	<game_imageLabel bitmap="20018" name="intro" pos-type="1" canfocus="0" focus="0" width="176" height="113" pos-x="36" pos-y="67"/>
+	<game_button bitmap="20037" name="exitBtn" pos-type="1" pos-x="182" pos-y="7" width="52" height="54" />
+</window>

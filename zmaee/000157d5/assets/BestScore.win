@@ -1,0 +1,5 @@
+<window layout="5" name="BestScore" pos-type="1" width="240" height="240" background="30002">
+	<game_imageLabel bitmap="20004" name="title" pos-type="1" pos-x="72" pos-y="16" width="99" height="41"/>
+	<gameNumLabel bitmap="20005" numBitmap="20014" name="best" pos-type="1" pos-x="55" pos-y="77" width="121" height="40" numOffsetX="71" numOffsetY="-1"/>
+	<game_button bitmap="20000" name="backBtn" pos-type="1" pos-x="93" pos-y="193" width="42" height="42" />
+</window>

@@ -1,0 +1,6 @@
+<window layout="5" name="gameLevelWin" pos-type="1" width="240" height="240" background="30000">
+	<game_button bitmap="20006" name="backBtn" pos-type="1" pos-x="3" pos-y="4" width="51" height="54" />
+	<gameScoreBtn bitmap="20001" name="OneBtn" pos-type="1" pos-x="42" pos-y="46" width="162" height="60" numBitmap="20024" numOffsetX="109" numOffsetY="18"/>
+	<gameScoreBtn bitmap="20002" name="TenBtn" pos-type="1" pos-x="43" pos-y="111" width="162" height="60" numBitmap="20024" numOffsetX="109" numOffsetY="18"/>
+	<gameScoreBtn bitmap="20003" name="OneHundredBtn" pos-type="1" pos-x="40" pos-y="177" width="163" height="60" numBitmap="20024" numOffsetX="109" numOffsetY="18"/>
+</window>

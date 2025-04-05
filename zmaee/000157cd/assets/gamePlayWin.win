@@ -1,0 +1,12 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30001">
+	<game_button bitmap="20024" name="backBtn" pos-type="1" pos-x="6" pos-y="6" width="43" height="35"/>
+	<gameNumLabel numBitmap="20042" name="scoreLabel" pos-type="1" pos-x="80" pos-y="3" width="80" height="38" align="4"/>
+	<gameNumLabel numBitmap="20042" name="timeLabel" pos-type="1" pos-x="187" pos-y="3" width="46" height="38"/>
+	<container layout="3" layout-param="3" name="blockBox" pos-type="1" pos-x="17" pos-y="80" width="206" height="135">		
+	</container>
+	
+	<container layout="5" name="nextDialog" pos-type="1" pos-x="0" pos-y="0" width="240" height="240">
+		<colorBg name="backgroud" r="10" g="10" b="10" a="150" rc="0,0,240,240" />
+		<game_imageLabel bitmap="20030" name="good" pos-type="1" pos-x="0" pos-y="90" width="240" height="60"/>
+	</container>
+</window>

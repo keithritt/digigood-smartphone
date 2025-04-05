@@ -1,0 +1,10 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30000">
+	<game_button bitmap="20006" name="backBtn" pos-type="1" pos-x="3" pos-y="3" width="46" height="48" />
+	<gameScoreBtn bitmap="20033" numBitmap="20024" name="scoreLabel" pos-type="1" canfocus="0" focus="0" pos-x="58" pos-y="4" width="89" height="41" numOffsetX="55" numOffsetY="10"/>
+	<gameScoreBtn bitmap="20035" numBitmap="20024" name="timeLabel" pos-type="1" canfocus="0" focus="0" pos-x="154" pos-y="4" width="82" height="42" numOffsetX="48" numOffsetY="9"/>
+	<orderLabel name="orderLabel" pos-type="1" pos-x="18" pos-y="62" width="204" height="155" des="20011" aes="20005"/>
+	<container layout="5" name="gameBody" pos-type="1" pos-x="10" pos-y="60" width="220" height="170" >
+		
+	</container>
+	
+</window>

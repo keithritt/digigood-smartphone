@@ -1,0 +1,5 @@
+<window layout="5" name="helpWin" pos-type="1" width="240" height="240" background="30002">
+	<game_imageLabel bitmap="20009" name="title" pos-type="1" pos-x="74" pos-y="19" width="94" height="35"/>
+	<game_imageLabel image="res\intro.png" name="intro" pos-type="1" pos-x="18" pos-y="68" width="197" height="74"/>
+	<game_button bitmap="20000" name="backBtn" pos-type="1" pos-x="95" pos-y="185" width="50" height="50" />
+</window>

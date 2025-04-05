@@ -1,0 +1,7 @@
+<window layout="5" name="gamePlayWin" pos-type="1" width="240" height="240" background="30001">
+	<gameNumLabel numBitmap="20015" name="red" pos-type="1" pos-x="48" pos-y="10" width="32" height="26" />
+	<gameNumLabel numBitmap="20015" name="black" pos-type="1" pos-x="162" pos-y="10" width="32" height="26"/>
+	<BlackBat name="blackBat" pos-type="1" pos-x="91" pos-y="32" width="40" height="25" bitmap="20004" type="1" move-pos="0,50"/>
+	<Ball name="Ball" pos-type="1" pos-x="91" pos-y="150" width="16" height="16" bitmap="20001"/>
+	<Bat name="rebBat" pos-type="1" pos-x="11" pos-y="141" width="78" height="79" bitmap="20016" type="0" move-pos="135,240"/>
+</window>
